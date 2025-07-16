@@ -17,16 +17,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <img
   src="./public/screenshots/qr-code-component-large.png"
   alt="Screenshot of the QR code component project in desktop size"
-  width="400" />
+  width="400"
+  height="auto" />
 <img
   src="./public/screenshots/qr-code-component-large.png"
   alt="Screenshot of the QR code component project in mobile size"
-  width="400" />
+  width="400"
+  height="auto" />
 
 ### Links
 - [Solution URL](https://github.com/molinax18/frontendmentor-challenges/tree/master/newbie/qr-code-component)
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://molinax18.github.io/fm-qr-code-component/)
 
 ### Built with
 - Semantic HTML5 markup
