@@ -18,16 +18,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   src="./public/screenshots/qr-code-component-large.png"
   alt="Screenshot of the QR code component project in desktop size"
   width="400"
-  height="auto" />
+  height="auto"
+  style="display:inline-block; margin-rigth:5px;" />
 
 <img
   src="./public/screenshots/qr-code-component-small.png"
   alt="Screenshot of the QR code component project in mobile size"
   width="400"
-  height="auto" />
+  height="auto"
+  style="display:inline-block;" />
 
 ### Links
-- [Solution URL](https://github.com/molinax18/frontendmentor-challenges/tree/master/newbie/qr-code-component)
+- [Solution URL](https://github.com/molinax18/fm-qr-code-component)
 
 - [Live Site URL](https://molinax18.github.io/fm-qr-code-component/)
 
