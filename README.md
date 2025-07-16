@@ -19,8 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   alt="Screenshot of the QR code component project in desktop size"
   width="400"
   height="auto" />
+
 <img
-  src="./public/screenshots/qr-code-component-large.png"
+  src="./public/screenshots/qr-code-component-small.png"
   alt="Screenshot of the QR code component project in mobile size"
   width="400"
   height="auto" />
